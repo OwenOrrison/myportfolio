@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/myportfolio.github.io/static/css/main.66a157ce.chunk.css",
+    "main.js": "/myportfolio.github.io/static/js/main.76213a19.chunk.js",
+    "main.js.map": "/myportfolio.github.io/static/js/main.76213a19.chunk.js.map",
+    "runtime~main.js": "/myportfolio.github.io/static/js/runtime~main.38fdd020.js",
+    "runtime~main.js.map": "/myportfolio.github.io/static/js/runtime~main.38fdd020.js.map",
+    "static/js/2.12537296.chunk.js": "/myportfolio.github.io/static/js/2.12537296.chunk.js",
+    "static/js/2.12537296.chunk.js.map": "/myportfolio.github.io/static/js/2.12537296.chunk.js.map",
+    "index.html": "/myportfolio.github.io/index.html",
+    "precache-manifest.f44b7c6d3875693d8ba92ca8ff14fdba.js": "/myportfolio.github.io/precache-manifest.f44b7c6d3875693d8ba92ca8ff14fdba.js",
+    "service-worker.js": "/myportfolio.github.io/service-worker.js",
+    "static/css/main.66a157ce.chunk.css.map": "/myportfolio.github.io/static/css/main.66a157ce.chunk.css.map",
+    "static/media/ClimbrPicture.png": "/myportfolio.github.io/static/media/ClimbrPicture.644f5644.png",
+    "static/media/InclinedPlane3.png": "/myportfolio.github.io/static/media/InclinedPlane3.2b7c7f90.png",
+    "static/media/LittleLibrary.png": "/myportfolio.github.io/static/media/LittleLibrary.a35b9c73.png",
+    "static/media/mypicture.jpeg": "/myportfolio.github.io/static/media/mypicture.13fb562c.jpeg"
+  }
+}
