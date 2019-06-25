@@ -90,7 +90,7 @@ class Profile extends Component{
             <DiRuby style = {angularStyle} size={30} />
             </div>
           </div>
-          <div>
+          {/* <div>
             <h4 className="aboutMe" onClick= {this.showAboutMe}>About Me</h4>
           </div>
           { this.state.aboutMe ?
@@ -98,7 +98,7 @@ class Profile extends Component{
             <p>
               I am a full-stack developer with a passion for solving problems. I relish opportunities to dive into the details to fix what needs to be and perfect what can be.
             </p>
-          </div>: null}
+          </div>: null} */}
       </div>
     )
   }
